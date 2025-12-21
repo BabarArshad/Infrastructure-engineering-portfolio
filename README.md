@@ -35,7 +35,7 @@ Topics covered:
 - Environment separation (dev / prod)
 - CI pipelines for Terraform plan
 
-👉 Repository: https://github.com/YOUR_USERNAME/terraform-labs
+👉 Repository: https://github.com/BabarArshad/Terraform-infrastructure-labs.git
 
 ---
 
