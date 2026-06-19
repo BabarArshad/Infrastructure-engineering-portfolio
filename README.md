@@ -62,7 +62,7 @@ Topics covered:
 - Network automation
 - Data parsing and validation
 
-👉 Repository: https://github.com/YOUR_USERNAME/python-networking
+👉 Repository: https://github.com/BabarArshad/Python
 
 ---
 
